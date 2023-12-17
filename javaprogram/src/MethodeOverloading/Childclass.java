@@ -8,11 +8,9 @@ public class Childclass extends ParentClass{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ParentClass a = new Childclass();
+		Childclass a = new Childclass();
 		a.m();
 		
-		Childclass b = (Childclass) new ParentClass();
-		b.m();
 		
 	}
 	

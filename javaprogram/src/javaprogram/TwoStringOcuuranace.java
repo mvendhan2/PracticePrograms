@@ -1,4 +1,4 @@
-package javaprogram;
+ 	package javaprogram;
 
 public class TwoStringOcuuranace {
 
