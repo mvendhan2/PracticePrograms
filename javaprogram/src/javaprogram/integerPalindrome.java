@@ -2,11 +2,11 @@ package javaprogram;
 
 import java.util.Scanner;
 
-public class arraycount {
+public class integerPalindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 		int a = 232;
 		int copynum = a;
 		int lastNum = 0;
