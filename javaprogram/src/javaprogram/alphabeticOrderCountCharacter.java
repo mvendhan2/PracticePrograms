@@ -1,4 +1,4 @@
-package javaprogram;
+package javaprogram.src.javaprogram;
 
 public class alphabeticOrderCountCharacter {
 

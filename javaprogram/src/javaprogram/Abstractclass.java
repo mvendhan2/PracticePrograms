@@ -1,4 +1,3 @@
-package javaprogram;
 
 
  abstract class AbstractSuperClass {
