@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EllieMaeATF-8.0-dependencies">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/imt/EllieMaeATF/8.0/EllieMaeATF-8.0-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/imt/EllieMaeATF/8.0/EllieMaeATF-8.0-dependencies.jar!/" />
+    </SOURCES>
+  </library>
+</component>

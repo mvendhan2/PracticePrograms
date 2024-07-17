@@ -1,0 +1,4 @@
+2024-07-16 15:15:20 DEBUG [] [] [] [RequestSpecificationImpl$RestAssuredHttpBuilder] Parsing response as: application/json; charset=utf-8 
+2024-07-16 15:15:20 DEBUG [] [] [] [RequestSpecificationImpl$RestAssuredHttpBuilder] Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+2024-07-16 15:15:23 DEBUG [] [] [] [RequestSpecificationImpl$RestAssuredHttpBuilder] Parsing response as: application/json 
+2024-07-16 15:15:23 DEBUG [] [] [] [RequestSpecificationImpl$RestAssuredHttpBuilder] Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
